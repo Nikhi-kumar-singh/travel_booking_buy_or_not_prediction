@@ -16,4 +16,9 @@ The project is flexible, easy to manage, and beginner-friendly.
 
 ### 1. Prepare Your Dataset
 - Place a **well-cleaned dataset** inside the `content` folder.
-- File should be named:
+- File should be named:Travel.csv
+
+###  Run the code(in terminal) :
+ - **cd file_location**
+ - **python main.py**
+  
